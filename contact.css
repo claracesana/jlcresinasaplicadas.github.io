@@ -1,0 +1,172 @@
+section#empresa{
+  text-align: center;
+  align-items: center;
+}
+
+#empresa{
+  background-color: #fff;
+  width: 100%;
+  padding-top: 40px;
+  margin-top: 0px;
+  padding-bottom: 40px;
+}
+
+h2.empresa{
+  font-size: 35px;
+  color: #5c86b1;
+  font-weight: 500;
+  margin-top: 30px;
+  text-align: center;
+}
+
+h3.empresa{
+  font-size: 25px;
+  color: #5c86b1;
+  font-weight: 500;
+  margin-top: -15px;
+  text-align: center;
+}
+
+.location{
+  height: 45px;
+  align-content: center;
+  margin: 40px auto -20px auto;
+}
+
+p.titlecontact{
+  font-size: 25px;
+  font-weight: 500;
+  padding-top: 40px;
+  margin: -10px auto 30px auto;
+}
+
+#empresa p{
+  width: 500px;
+  margin: -40px auto -20px auto;
+  margin-top: -10px;
+  padding-bottom: 30px;
+  line-height: 35px;
+  padding-top: -20px;
+}
+
+#intro{
+  color:  rgb(255, 255, 255);
+  background-color: rgb(42, 42, 42);
+  width: 100%;
+  padding-top: 40px;
+  margin-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  font-weight: lighter;
+}
+
+table{
+  width: 90%;
+  align-content: center;
+  font-weight: lighter;
+  margin: auto;
+}
+
+th.info{
+  font-weight: lighter;
+  width: 550px;
+}
+
+th.img{
+  width: 250px;
+}
+
+div.info{
+  align-items: right;
+}
+
+h2.intro{
+  font-size: 35px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: 45px;
+  text-align: left;
+}
+
+h3.intro{
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: -15px;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+#intro p{
+  margin-top: 20px;
+  padding-bottom: -15px;
+  line-height: 35px;
+  padding-top: -20px;
+  text-align: left;
+  margin-bottom: -15px;
+}
+
+div.intro{
+  align-items: left;
+}
+
+.joseluis{
+  height: 360px;
+  align-content: left;
+  margin-top: -30px;
+  margin-bottom: 0px;
+  border-radius: 50%;
+  border: white solid 5px;
+  align-items: left;
+  mask-image: circle;
+}
+
+
+
+section#form{
+  text-align: center;
+  align-items: center;
+}
+
+#form{
+  background-color: #e2e2e2;
+  width: 100%;
+  padding-top: 40px;
+  margin-top: 0px;
+  padding-bottom: 40px;
+}
+
+h2.form{
+  font-size: 35px;
+  color: #5c86b1;
+  font-weight: 500;
+  margin-top: 30px;
+  text-align: center;
+}
+
+h3.form{
+  font-size: 25px;
+  color: #5c86b1;
+  font-weight: 500;
+  margin-top: -15px;
+  text-align: center;
+}
+
+form label{
+  width: 500px;
+  margin: -40px auto -20px auto;
+  margin-top: -10px;
+  line-height: 35px;
+  padding-top: -20px;
+  font-size: 18px;
+}
+
+form.form{
+  text-align: center;
+  align-items: center;
+  border-radius: 10px;
+  margin-top: 60px;
+  padding-bottom: 20px;
+}
+
+
